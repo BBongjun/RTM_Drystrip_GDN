@@ -1,0 +1,14 @@
+pretrained/
+results/
+runs/
+temp/
+run_copy.sh
+__pycache__
+graph_figures/
+log/
+aa.ipynb
+embeddings.npy
+install_2.sh
+install.sh
+run.sh
+data/
